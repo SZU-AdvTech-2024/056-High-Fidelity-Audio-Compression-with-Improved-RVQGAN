@@ -1,0 +1,9 @@
+@misc{REPO056,
+    author = "Kumar, Rithesh and Seetharaman, Prem and Luebs, Alejandro and Kumar, Ishaan and Kumar, Kundan",
+    archiveprefix = "arXiv",
+    eprint = "2306.06546",
+    primaryclass = "cs.SD",
+    title = "{High-Fidelity Audio Compression with Improved RVQGAN}",
+    url = "https://arxiv.org/abs/2306.06546",
+    year = "2023"
+}
