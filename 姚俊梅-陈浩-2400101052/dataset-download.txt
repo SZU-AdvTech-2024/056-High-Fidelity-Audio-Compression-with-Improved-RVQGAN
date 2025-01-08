@@ -1,0 +1,8 @@
+Music：
+	1、MUSDB18 dataset：https://sigsep.github.io/datasets/musdb.html
+	2、Jamendo dataset：https://mtg.github.io/mtg-jamendo-dataset/
+Speech：
+	1、DNS Challenge 4：https://github.com/microsoft/DNS-Challenge
+	2、Common Voice dataset：https://commonvoice.mozilla.org/zh-CN/datasets
+	3、VCTK dataset：https://datashare.ed.ac.uk/handle/10283/2651
+	4、DAPS dataset：https://zenodo.org/records/4660670
